@@ -1,0 +1,136 @@
+1
+00:00:05,640 --> 00:00:06,790
+Bem-vindo de volta a todos.
+
+2
+00:00:06,810 --> 00:00:11,910
+Eu queria levar apenas um pouco de tempo para discutir rapidamente a escolha do Python 2
+
+3
+00:00:11,920 --> 00:00:13,940
+versus a escolha do Python 3.
+
+4
+00:00:13,960 --> 00:00:18,160
+Costumava ser que, se voc  um iniciante e estava aprendendo Python, na
+
+5
+00:00:18,160 --> 00:00:24,430
+verdade, foi uma deciso bastante difcil de escolher o Python versus o Python 3 porque muitas empresas ainda tinham
+
+6
+00:00:24,430 --> 00:00:26,610
+Python legado para codificar para serem mantidas.
+
+7
+00:00:26,650 --> 00:00:33,950
+No entanto, o Python tambm no deixaria de receber atualizaes de segurana no ano 2020 e este curso inicialmente foi
+
+8
+00:00:33,950 --> 00:00:36,610
+lanado, ensinando ambas as verses do Python.
+
+9
+00:00:36,650 --> 00:00:41,960
+Ns ensinamos o Python ao Python 3 e as verses foram semelhantes o suficiente para
+
+10
+00:00:42,050 --> 00:00:45,070
+que fosse fcil aprender simultaneamente e tecnicamente ainda .
+
+11
+00:00:45,300 --> 00:00:51,330
+No entanto, agora, todos os principais pacotes Python externos foram atualizados para suportar o Python 3.
+
+12
+00:00:51,460 --> 00:00:58,250
+Basicamente, 99 por cento dos primeiros 300 pacotes de Python que so pacotes externos que voc pode baixar, suportam totalmente
+
+13
+00:00:58,250 --> 00:01:03,820
+o Python 3 e alguns deles esto se movendo para ser exclusivamente para o Python 3.
+
+14
+00:01:03,920 --> 00:01:08,630
+E estes so pacotes como o Gengel para desenvolvimento web que, no futuro,
+
+15
+00:01:08,630 --> 00:01:11,680
+deixaro de suportar o Python por causa disso.
+
+16
+00:01:11,690 --> 00:01:17,090
+cdigo de todos os notebooks e todos os vdeos foram atualizados para se concentrar apenas no Python 3.
+
+17
+00:01:17,090 --> 00:01:20,800
+Agora, o curso se concentrar apenas no Python 3 e todo o
+
+18
+00:01:20,960 --> 00:01:24,590
+Agora, se precisar voltar para Python 2, a sintaxe  um salto muito fcil.
+
+19
+00:01:24,590 --> 00:01:29,330
+Uma vez que voc conhece o Python 3 para que voc possa seguir este curso, aprenda a totalidade do Python 3 os prs
+
+20
+00:01:29,360 --> 00:01:33,740
+e contras da linguagem de programao Python e no caso de voc conseguir um emprego em algum lugar onde eles ainda tenham
+
+21
+00:01:33,740 --> 00:01:34,990
+o cdigo legtimo do Python 2.
+
+22
+00:01:35,000 --> 00:01:37,070
+No se preocupe, voc no vai ficar completamente perdido.
+
+23
+00:01:37,100 --> 00:01:39,290
+As lnguas so muito similares.
+
+24
+00:01:39,290 --> 00:01:43,340
+sempre gosto de dizer que, se voc conhece o Python 3, voc basicamente j conhece o Python tambm.
+
+25
+00:01:43,340 --> 00:01:46,800
+As verses das lnguas so semelhantes, ento voc pode facilmente pular de uma para outra e
+
+26
+00:01:46,880 --> 00:01:50,160
+Voc precisa apenas aprender algumas mudanas de sintaxe no Python 3.
+
+27
+00:01:50,180 --> 00:01:54,350
+Realmente  o futuro do Python, ento  onde nos concentramos nisso para este curso.
+
+28
+00:01:55,290 --> 00:01:59,090
+Ento, apenas o breve resumo rpido, baseado em trs,  realmente o futuro do Python.
+
+29
+00:01:59,130 --> 00:02:02,260
+Ento, vamos usar o Python 3 exclusivamente para este curso.
+
+30
+00:02:02,400 --> 00:02:06,610
+Agora, os notebooks antigos esto disponveis no caso de voc precisar de algumas informaes da Python.
+
+31
+00:02:06,840 --> 00:02:11,430
+Mas vamos seguir em frente e comear pela instalao do Python 3 e usaremos o Python 3 para
+
+32
+00:02:11,430 --> 00:02:12,480
+o resto deste curso.
+
+33
+00:02:12,570 --> 00:02:16,780
+Voc tem esses velhos cadernos no caso, por algum motivo, voc precisa fazer referncia ao cdigo legado.
+
+34
+00:02:17,100 --> 00:02:20,390
+Obrigado e veremos na prxima palestra onde comeamos a instalar o Python.
+

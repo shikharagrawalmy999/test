@@ -1,0 +1,136 @@
+1
+00:00:05,640 --> 00:00:06,790
+Welcome back everyone.
+
+2
+00:00:06,810 --> 00:00:11,910
+I wanted to take just a little bit of time to quickly discuss choosing Python 2 versus choosing Python
+
+3
+00:00:11,920 --> 00:00:13,940
+3.
+
+4
+00:00:13,960 --> 00:00:18,160
+It used to be that if you are a beginner and you were just learning Python it was actually a pretty
+
+5
+00:00:18,160 --> 00:00:24,430
+difficult decision to choose Python to versus Python 3 because many companies still had legacy Python
+
+6
+00:00:24,430 --> 00:00:26,610
+to code to be maintain.
+
+7
+00:00:26,650 --> 00:00:33,950
+However Python too was going to stop receiving security updates in the year 2020 and this course was
+
+8
+00:00:33,950 --> 00:00:36,610
+initially released teaching both versions of Python.
+
+9
+00:00:36,650 --> 00:00:41,960
+We taught both Python to Python 3 and the versions were similar enough that it was easy to learn both
+
+10
+00:00:42,050 --> 00:00:45,070
+simultaneously and technically it still is.
+
+11
+00:00:45,300 --> 00:00:51,330
+However now every major external Python package has been updated to support Python 3.
+
+12
+00:00:51,460 --> 00:00:58,250
+Basically 99 percent of the top 300 packages of Python that are external packages you can download fully
+
+13
+00:00:58,250 --> 00:01:03,820
+support Python 3 and some of them are even moving towards being exclusively for Python 3.
+
+14
+00:01:03,920 --> 00:01:08,630
+And these are packages such as Gengel for web development who will later in the future stop supporting
+
+15
+00:01:08,630 --> 00:01:11,680
+Python to because of this.
+
+16
+00:01:11,690 --> 00:01:17,090
+Now the course will focus solely on Python 3 and all the code all the notebooks and all the videos have
+
+17
+00:01:17,090 --> 00:01:20,800
+been updated to just focus purely on Python 3.
+
+18
+00:01:20,960 --> 00:01:24,590
+Now if need be going back to Python 2 syntax is a very easy jump.
+
+19
+00:01:24,590 --> 00:01:29,330
+Once you know Python 3 so you can go through this course learn the entirety of Python 3 the ins and
+
+20
+00:01:29,360 --> 00:01:33,740
+outs of the Python programming language and in case you get a job somewhere where they still have Python
+
+21
+00:01:33,740 --> 00:01:34,990
+2 legacy code.
+
+22
+00:01:35,000 --> 00:01:37,070
+Don't worry you're not going to be completely lost.
+
+23
+00:01:37,100 --> 00:01:39,290
+The languages are very very similar.
+
+24
+00:01:39,290 --> 00:01:43,340
+The versions of the languages are similar so you can easily jump from one to the other and I always
+
+25
+00:01:43,340 --> 00:01:46,800
+like to say that if you know Python 3 you basically already know Python too.
+
+26
+00:01:46,880 --> 00:01:50,160
+You just need to learn a couple of syntax changes in Python 3.
+
+27
+00:01:50,180 --> 00:01:54,350
+Really is the future of Python so that's where we focus on it for this course.
+
+28
+00:01:55,290 --> 00:01:59,090
+So just the short really quick summary based on three really is the future of Python.
+
+29
+00:01:59,130 --> 00:02:02,260
+So we're going to be using Python 3 exclusively for this course.
+
+30
+00:02:02,400 --> 00:02:06,610
+Now the old notebooks are available in case you need some Python to information.
+
+31
+00:02:06,840 --> 00:02:11,430
+But we're going to go ahead and get started by installing Python 3 and will be using Python 3 for the
+
+32
+00:02:11,430 --> 00:02:12,480
+rest of this course.
+
+33
+00:02:12,570 --> 00:02:16,780
+You have those old notebooks in case for some reason you need to reference legacy code.
+
+34
+00:02:17,100 --> 00:02:20,390
+Thanks and we'll see at the next lecture where we begin installing Python.
+

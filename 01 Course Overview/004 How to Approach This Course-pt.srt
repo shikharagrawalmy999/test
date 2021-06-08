@@ -1,0 +1,236 @@
+1
+00:00:00,775 --> 00:00:01,774
+Instrutor: Ol a
+
+2
+00:00:01,774 --> 00:00:04,839
+todos, e bem-vindo  palestra, Como se aproximar deste curso.
+
+3
+00:00:04,839 --> 00:00:07,240
+Esta palestra abordar os conceitos bsicos
+
+4
+00:00:07,240 --> 00:00:09,924
+de como aproveitar ao mximo esse curso.
+
+5
+00:00:09,924 --> 00:00:13,112
+Agora, as pessoas que esto tomando este
+
+6
+00:00:13,112 --> 00:00:16,008
+curso esperanosamente esto dentro de trs categorias.
+
+7
+00:00:16,008 --> 00:00:18,852
+que entram de outro idioma,
+
+8
+00:00:18,852 --> 00:00:21,495
+ou programadores intermedirios do Python.
+
+9
+00:00:21,495 --> 00:00:24,599
+Iniciantes que nunca programaram antes, programadores
+
+10
+00:00:24,599 --> 00:00:27,256
+Agora eu vou discutir como voc deve abordar este
+
+11
+00:00:27,256 --> 00:00:29,591
+curso, dependendo de qual categoria voc est.
+
+12
+00:00:29,591 --> 00:00:32,536
+Primeiro, iniciantes que nunca programaram.
+
+13
+00:00:32,536 --> 00:00:36,917
+Os iniciantes completos devem ler os cadernos antes
+
+14
+00:00:36,917 --> 00:00:39,015
+de assistir a tela.
+
+15
+00:00:39,015 --> 00:00:42,903
+Ento, veja a tela e siga.
+
+16
+00:00:42,903 --> 00:00:45,703
+tarefas correspondentes para verificar sua compreenso.
+
+17
+00:00:45,703 --> 00:00:47,864
+Ento, voc deve fazer
+
+18
+00:00:47,864 --> 00:00:49,827
+o teste, testar ou
+
+19
+00:00:49,827 --> 00:00:52,741
+Depois, certifique-se de revisar o caderno escrito para
+
+20
+00:00:52,741 --> 00:00:54,536
+se certificar de que voc
+
+21
+00:00:54,536 --> 00:00:56,453
+entendeu o material da palestra.
+
+22
+00:00:58,084 --> 00:01:01,219
+Agora, se voc  um programador que vem
+
+23
+00:01:01,219 --> 00:01:06,024
+de outro idioma, voc deve ler os cadernos de leitura e acompanhar.
+
+24
+00:01:06,024 --> 00:01:07,671
+e veja o lanamento da tela.
+
+25
+00:01:07,671 --> 00:01:09,832
+Ento, se algo no estiver claro, v em frente
+
+26
+00:01:09,832 --> 00:01:11,944
+Depois, voc deve fazer o teste, teste
+
+27
+00:01:11,944 --> 00:01:13,478
+ou tarefa de tarefas correspondentes
+
+28
+00:01:13,478 --> 00:01:15,139
+e verifique se voc pode
+
+29
+00:01:15,139 --> 00:01:16,983
+verificar sua compreenso atravs do elenco
+
+30
+00:01:16,983 --> 00:01:18,983
+de tela ou atravs do notebook.
+
+31
+00:01:21,026 --> 00:01:24,379
+voc deve ler o caderno e certificar-se de
+
+32
+00:01:24,379 --> 00:01:25,809
+que conhece o tpico.
+
+33
+00:01:25,809 --> 00:01:27,876
+Finalmente, para programadores Python intermedirios,
+
+34
+00:01:27,876 --> 00:01:29,466
+Se voc  programador intermedirio
+
+35
+00:01:29,466 --> 00:01:31,783
+Python, provavelmente pode ignorar as primeiras sees
+
+36
+00:01:31,783 --> 00:01:34,662
+do curso onde discutimos os conceitos bsicos do Python.
+
+37
+00:01:34,662 --> 00:01:36,629
+Uma vez que voc esteja nos tpicos
+
+38
+00:01:36,629 --> 00:01:38,486
+avanados, eu recomendaria que voc leia os
+
+39
+00:01:38,486 --> 00:01:40,167
+cadernos e veja a tela para
+
+40
+00:01:40,167 --> 00:01:42,005
+tirar o mximo proveito deste curso.
+
+41
+00:01:42,005 --> 00:01:44,594
+E faa o correspondente teste, teste
+
+42
+00:01:44,594 --> 00:01:46,935
+ou tarefa de trabalho para essa
+
+43
+00:01:46,935 --> 00:01:48,102
+seo do curso.
+
+44
+00:01:50,790 --> 00:01:52,582
+Agora, discutiendo questes.
+
+45
+00:01:52,582 --> 00:01:54,774
+Se, depois de assistir o lanamento da tela ou
+
+46
+00:01:54,774 --> 00:01:56,327
+verificar o caderno, algo no faz sentido,
+
+47
+00:01:56,327 --> 00:01:58,234
+sinta-se livre para iniciar uma discusso nos fruns.
+
+48
+00:01:58,234 --> 00:02:00,709
+Frequentes, correspondente com a palestra.
+
+49
+00:02:00,709 --> 00:02:03,227
+Lembre-se de verificar se h uma
+
+50
+00:02:03,227 --> 00:02:05,480
+sesso de Perguntas Frequentes, Perguntas
+
+51
+00:02:05,480 --> 00:02:07,959
+ medida que este curso se agrupa com
+
+52
+00:02:07,959 --> 00:02:10,247
+mais alunos, mais palestras de perguntas frequentes
+
+53
+00:02:10,247 --> 00:02:12,644
+comearo a surgir ao longo do curso.
+
+54
+00:02:12,644 --> 00:02:15,058
+Alm disso, lembre-se de usar o recurso
+
+55
+00:02:15,058 --> 00:02:18,518
+de pesquisa na seo de discusso para resultados mais rpidos.
+
+56
+00:02:18,518 --> 00:02:21,383
+Tudo bem,  isso para esta seo do curso.
+
+57
+00:02:21,383 --> 00:02:24,021
+Em seguida, aprenderemos a instalar o Python em
+
+58
+00:02:24,021 --> 00:02:27,203
+nossos computadores e analisaremos o ambiente do curso bsico.
+
+59
+00:02:27,203 --> 00:02:31,018
+Obrigado, e eu vou ver voc na prxima palestra.
+

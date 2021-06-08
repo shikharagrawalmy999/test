@@ -1,0 +1,248 @@
+1
+00:00:00,897 --> 00:00:03,802
+-: Hola y bienvenidos al Bootcamp completo de Python.
+
+2
+00:00:03,802 --> 00:00:05,261
+Mi nombre es Jose
+
+3
+00:00:05,261 --> 00:00:07,823
+Portilla, y ser su instructor para este curso.
+
+4
+00:00:07,823 --> 00:00:09,312
+Ense a miles de
+
+5
+00:00:09,312 --> 00:00:10,973
+estudiantes en Udemy sobre ciencia
+
+6
+00:00:10,973 --> 00:00:12,865
+de datos, y estoy emocionado de
+
+7
+00:00:12,865 --> 00:00:14,535
+ensearle a ms estudiantes sobre
+
+8
+00:00:14,535 --> 00:00:17,360
+los pormenores completos del lenguaje de programacin Python.
+
+9
+00:00:17,360 --> 00:00:19,425
+Este curso est diseado para llevarte
+
+10
+00:00:19,425 --> 00:00:23,577
+de cero a hroe en Python de una manera fcil y divertida.
+
+11
+00:00:23,577 --> 00:00:25,693
+Entonces, por qu aprender Python?
+
+12
+00:00:25,693 --> 00:00:27,126
+Python es uno de los
+
+13
+00:00:27,126 --> 00:00:28,971
+lenguajes de programacin ms tiles para saber,
+
+14
+00:00:28,971 --> 00:00:30,079
+y en los ltimos
+
+15
+00:00:30,079 --> 00:00:33,889
+aos, la demanda de habilidades para Python se ha disparado en el mercado de trabajo.
+
+16
+00:00:33,889 --> 00:00:35,947
+implementar tus propias ideas con Python.
+
+17
+00:00:35,947 --> 00:00:37,396
+Con este curso, es
+
+18
+00:00:37,396 --> 00:00:41,225
+fcil de aprender y es una herramienta muy poderosa para
+
+19
+00:00:41,225 --> 00:00:43,380
+Entonces, para quin es este curso?
+
+20
+00:00:43,380 --> 00:00:44,453
+Este curso es
+
+21
+00:00:44,453 --> 00:00:46,904
+adecuado para principiantes que nunca han programado,
+
+22
+00:00:46,904 --> 00:00:49,465
+programadores que vienen de otro idioma y,
+
+23
+00:00:49,465 --> 00:00:50,488
+finalmente, programadores que
+
+24
+00:00:50,488 --> 00:00:53,259
+conocen los principios bsicos de la sintaxis de
+
+25
+00:00:53,259 --> 00:00:55,014
+Python pero quieren llevar su
+
+26
+00:00:55,014 --> 00:00:59,094
+conocimiento al siguiente nivel con los temas avanzados presentados en este curso.
+
+27
+00:00:59,094 --> 00:01:00,625
+Entonces, cmo es el curso?
+
+28
+00:01:00,625 --> 00:01:02,194
+Comenzaremos por iniciar y ejecutar
+
+29
+00:01:02,194 --> 00:01:03,529
+Python en su computadora,
+
+30
+00:01:03,529 --> 00:01:05,393
+independientemente de su sistema operativo.
+
+31
+00:01:05,393 --> 00:01:09,222
+Ya sea que est usando Windows, Mac o Linux.
+
+32
+00:01:09,222 --> 00:01:12,966
+bsica de Python, hasta los temas y mdulos avanzados en Python.
+
+33
+00:01:12,966 --> 00:01:15,834
+Luego obtendr acceso de por vida a ms
+
+34
+00:01:15,834 --> 00:01:18,618
+de 100 conferencias, discutiendo todo, desde la sintaxis
+
+35
+00:01:18,618 --> 00:01:20,703
+Cada conferencia incluye un video
+
+36
+00:01:20,703 --> 00:01:22,858
+screencast con claras explicaciones conceptuales,
+
+37
+00:01:22,858 --> 00:01:25,696
+as como cuadernos completos llenos de cdigo
+
+38
+00:01:25,696 --> 00:01:27,243
+y explicaciones escritas.
+
+39
+00:01:27,243 --> 00:01:30,645
+Para que pueda aprender de la forma que sea mejor para usted.
+
+40
+00:01:30,645 --> 00:01:32,816
+del camino para verificar su comprensin.
+
+41
+00:01:32,816 --> 00:01:36,466
+Hay exmenes, cuestionarios y asignaciones de tareas a lo largo
+
+42
+00:01:36,466 --> 00:01:39,232
+Este curso tambin se basa en proyectos
+
+43
+00:01:39,232 --> 00:01:41,272
+con proyectos clave en los
+
+44
+00:01:41,272 --> 00:01:44,790
+que crear juegos con Python, incluido un proyecto final final.
+
+45
+00:01:44,790 --> 00:01:47,822
+Tambin aprender cmo evitar los errores ms comunes en
+
+46
+00:01:47,822 --> 00:01:50,120
+Python, y aprender las mejores prcticas de
+
+47
+00:01:50,120 --> 00:01:54,464
+programacin, como el formato de cdigo y la programacin orientada a objetos.
+
+48
+00:01:54,464 --> 00:01:55,979
+Python en su currculum.
+
+49
+00:01:55,979 --> 00:01:57,843
+Una vez que complete este curso,
+
+50
+00:01:57,843 --> 00:02:00,770
+se sentir extremadamente seguro al poner la programacin de
+
+51
+00:02:00,770 --> 00:02:02,530
+Lo que es ms importante, aprender
+
+52
+00:02:02,530 --> 00:02:05,113
+a tener un amor de por vida a la
+
+53
+00:02:06,189 --> 00:02:09,267
+programacin, y hay una garanta de devolucin de dinero de 30 das.
+
+54
+00:02:09,267 --> 00:02:10,918
+Si no est satisfecho de
+
+55
+00:02:10,918 --> 00:02:13,936
+ninguna manera, le devolvemos su dinero, sin hacer preguntas.
+
+56
+00:02:13,936 --> 00:02:16,311
+clase como agradecimiento por probar el curso.
+
+57
+00:02:16,311 --> 00:02:19,696
+Tambin podr mantener las ms de 100 notas de
+
+58
+00:02:19,696 --> 00:02:21,671
+Mira el siguiente video de vista
+
+59
+00:02:21,671 --> 00:02:25,428
+previa para obtener una descripcin completa del currculum de todo el curso.
+
+60
+00:02:25,428 --> 00:02:26,628
+Entonces, Qu esperas?
+
+61
+00:02:26,628 --> 00:02:28,001
+Inscrbase hoy en el
+
+62
+00:02:28,001 --> 00:02:31,501
+curso y aprenda el poder de la Programacin de Python.
+

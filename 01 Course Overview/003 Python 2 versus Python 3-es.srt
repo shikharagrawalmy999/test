@@ -1,0 +1,136 @@
+1
+00:00:05,640 --> 00:00:06,790
+Bienvenido de nuevo a todos.
+
+2
+00:00:06,810 --> 00:00:11,910
+Quera tomarme un poco de tiempo para analizar rpidamente la eleccin de Python 2
+
+3
+00:00:11,920 --> 00:00:13,940
+en lugar de elegir Python 3.
+
+4
+00:00:13,960 --> 00:00:18,160
+Sola ser que si eres un principiante y recin estabas aprendiendo Python,
+
+5
+00:00:18,160 --> 00:00:24,430
+en realidad era una decisin bastante difcil elegir Python contra Python 3 porque muchas compaas todava tenan
+
+6
+00:00:24,430 --> 00:00:26,610
+Python heredado para codificar para mantener.
+
+7
+00:00:26,650 --> 00:00:33,950
+Sin embargo, Python tambin iba a dejar de recibir actualizaciones de seguridad en el ao 2020 y este curso se lanz
+
+8
+00:00:33,950 --> 00:00:36,610
+inicialmente para ensear ambas versiones de Python.
+
+9
+00:00:36,650 --> 00:00:41,960
+Enseamos Python a Python 3 y las versiones fueron lo suficientemente similares que fue fcil
+
+10
+00:00:42,050 --> 00:00:45,070
+de aprender tanto de forma simultnea como tcnicamente.
+
+11
+00:00:45,300 --> 00:00:51,330
+Sin embargo, ahora todos los principales paquetes externos de Python se han actualizado para admitir Python 3.
+
+12
+00:00:51,460 --> 00:00:58,250
+Bsicamente, el 99 por ciento de los 300 paquetes superiores de Python que son paquetes externos que puedes descargar soportan
+
+13
+00:00:58,250 --> 00:01:03,820
+completamente Python 3 y algunos de ellos incluso se estn moviendo hacia ser exclusivamente para Python 3.
+
+14
+00:01:03,920 --> 00:01:08,630
+Y estos son paquetes como Gengel para el desarrollo web que ms adelante en el
+
+15
+00:01:08,630 --> 00:01:11,680
+futuro dejarn de apoyar a Python debido a esto.
+
+16
+00:01:11,690 --> 00:01:17,090
+cdigo de todos los cuadernos y todos los videos se han actualizado para centrarse exclusivamente en Python 3.
+
+17
+00:01:17,090 --> 00:01:20,800
+Ahora el curso se enfocar nicamente en Python 3 y todo el
+
+18
+00:01:20,960 --> 00:01:24,590
+Ahora, si es necesario regresar a Python 2, la sintaxis es un salto muy fcil.
+
+19
+00:01:24,590 --> 00:01:29,330
+Una vez que conozca Python 3 para que pueda seguir este curso, aprenda la totalidad de Python 3 los pormenores del
+
+20
+00:01:29,360 --> 00:01:33,740
+lenguaje de programacin Python y en caso de que obtenga un trabajo en algn lugar donde todava tengan el
+
+21
+00:01:33,740 --> 00:01:34,990
+cdigo heredado de Python 2.
+
+22
+00:01:35,000 --> 00:01:37,070
+No te preocupes, no te perders por completo.
+
+23
+00:01:37,100 --> 00:01:39,290
+Los idiomas son muy muy similares.
+
+24
+00:01:39,290 --> 00:01:43,340
+la otra y siempre me gusta decir que si conoces Python 3, bsicamente ya conoces a Python.
+
+25
+00:01:43,340 --> 00:01:46,800
+Las versiones de los idiomas son similares, as que puedes saltar fcilmente de una a
+
+26
+00:01:46,880 --> 00:01:50,160
+Solo necesita aprender un par de cambios de sintaxis en Python 3.
+
+27
+00:01:50,180 --> 00:01:54,350
+Realmente es el futuro de Python, ah es donde nos centramos en este curso.
+
+28
+00:01:55,290 --> 00:01:59,090
+Entonces, el breve resumen realmente rpido basado en tres realmente es el futuro de Python.
+
+29
+00:01:59,130 --> 00:02:02,260
+As que vamos a utilizar Python 3 exclusivamente para este curso.
+
+30
+00:02:02,400 --> 00:02:06,610
+Ahora los viejos cuadernos estn disponibles en caso de que necesite informacin sobre Python.
+
+31
+00:02:06,840 --> 00:02:11,430
+Pero vamos a seguir adelante y comenzaremos por instalar Python 3 y usaremos Python 3 por el
+
+32
+00:02:11,430 --> 00:02:12,480
+resto de este curso.
+
+33
+00:02:12,570 --> 00:02:16,780
+Tienes esos viejos cuadernos en caso de que por alguna razn necesites hacer referencia al cdigo heredado.
+
+34
+00:02:17,100 --> 00:02:20,390
+Gracias y veremos en la prxima conferencia donde comenzamos a instalar Python.
+

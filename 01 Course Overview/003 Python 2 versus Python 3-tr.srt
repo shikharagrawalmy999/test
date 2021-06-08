@@ -1,0 +1,136 @@
+1
+00:00:05,640 --> 00:00:06,790
+Herkese geri hogeldiniz.
+
+2
+00:00:06,810 --> 00:00:11,910
+Python 3' semek yerine Python 2'yi seme konusunu hzla tartmak iin
+
+3
+00:00:11,920 --> 00:00:13,940
+biraz zaman ayrmak istedim.
+
+4
+00:00:13,960 --> 00:00:18,160
+Eskiden, eer balang aamasndaysanz ve sadece Python reniyorsanz, pek
+
+5
+00:00:18,160 --> 00:00:24,430
+ok irket halen korumak iin kodlanm eski Python'lara sahip olduundan Python'u Python 3'e kar
+
+6
+00:00:24,430 --> 00:00:26,610
+semek olduka zor bir karart.
+
+7
+00:00:26,650 --> 00:00:33,950
+Bununla birlikte, Python 2020'de gvenlik gncelletirmelerini almay brakacakt ve bu ders balangta her iki Python
+
+8
+00:00:33,950 --> 00:00:36,610
+srmn de retmek zere kt.
+
+9
+00:00:36,650 --> 00:00:41,960
+Hem Python'u Python 3'e rettik ve hem ayn anda hem de
+
+10
+00:00:42,050 --> 00:00:45,070
+teknik olarak renmek kolay olan srmler benzerdi.
+
+11
+00:00:45,300 --> 00:00:51,330
+Ancak imdi her byk d Python paketi Python 3' destekleyecek ekilde gncellendi.
+
+12
+00:00:51,460 --> 00:00:58,250
+Python 3' tam olarak destekleyebilen, d pakete sahip ilk 300 paket Python paketinin yzde
+
+13
+00:00:58,250 --> 00:01:03,820
+99'u temelde yalnzca yzde 99'u ve bazlar yalnzca Python 3'e yneliyor.
+
+14
+00:01:03,920 --> 00:01:08,630
+Ve bunlar, gelecekte gelecekte Python'u desteklemek iin durduracak olan
+
+15
+00:01:08,630 --> 00:01:11,680
+web gelitirme iin Gengel gibi paketlerdir.
+
+16
+00:01:11,690 --> 00:01:17,090
+bilgisayarlarn tm kodlar ve tm videolar sadece tamamen Python 3'e odaklanacak ekilde gncellendi.
+
+17
+00:01:17,090 --> 00:01:20,800
+imdi kurs yalnzca Python 3'e odaklanacak ve tm dizst
+
+18
+00:01:20,960 --> 00:01:24,590
+imdi Python'a geri dnmek gerekiyorsa 2 szdizimi ok kolay bir atlama.
+
+19
+00:01:24,590 --> 00:01:29,330
+Bu dersi takip edebilmeniz iin Python 3' rendikten sonra, Python 3'n btnn Python programlama dilinin
+
+20
+00:01:29,360 --> 00:01:33,740
+ierikleri ve davurumlarn renin ve eer hala Python 2 miras kodunun bulunduu bir yerde
+
+21
+00:01:33,740 --> 00:01:34,990
+bir i bulursanz.
+
+22
+00:01:35,000 --> 00:01:37,070
+Tamamen kaybolmayacanza dair endielenmeyin.
+
+23
+00:01:37,100 --> 00:01:39,290
+Diller ok benzer.
+
+24
+00:01:39,290 --> 00:01:43,340
+zaman Python 3' biliyorsanz temel olarak zaten Python'u da biliyorsunuz demektir.
+
+25
+00:01:43,340 --> 00:01:46,800
+Dillerin srmleri benzerdir, bylece birinden dierine kolayca atlayabilirsiniz ve her
+
+26
+00:01:46,880 --> 00:01:50,160
+Python 3'te birka szdizimi deiiklii renmeniz yeterlidir.
+
+27
+00:01:50,180 --> 00:01:54,350
+Gerekten Python'n gelecei bu yzden bu derste biz buna odaklanyoruz.
+
+28
+00:01:55,290 --> 00:01:59,090
+Yani sadece  temelli ksa zet Python'un geleceidir.
+
+29
+00:01:59,130 --> 00:02:02,260
+Python 3' yalnzca bu ders iin kullanacaz.
+
+30
+00:02:02,400 --> 00:02:06,610
+Eski dizst bilgisayarlar, bilgi iin bir miktar Python'a ihtiya duymanz durumunda kullanlabilir.
+
+31
+00:02:06,840 --> 00:02:11,430
+Ancak, ilerlemeye balayacaz ve Python 3' ykleyerek balayacaz ve bu dersin geri kalannda
+
+32
+00:02:11,430 --> 00:02:12,480
+Python 3' kullanacaz.
+
+33
+00:02:12,570 --> 00:02:16,780
+Eski kodlara referans yapmanz gereken baz nedenlerden dolay eski dizst bilgisayarlarnz var.
+
+34
+00:02:17,100 --> 00:02:20,390
+Teekkrler ve bir sonraki derste Python'u kurmaya balayacamz greceiz.
+

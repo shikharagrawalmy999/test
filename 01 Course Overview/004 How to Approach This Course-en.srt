@@ -1,0 +1,236 @@
+1
+00:00:00,775 --> 00:00:01,774
+<v Instructor>Hello everyone,</v>
+
+2
+00:00:01,774 --> 00:00:04,839
+and welcome to the lecture, How to Approach This Course.
+
+3
+00:00:04,839 --> 00:00:07,240
+This lecture will go over the basics
+
+4
+00:00:07,240 --> 00:00:09,924
+of how to get the most out of this course.
+
+5
+00:00:09,924 --> 00:00:13,112
+Now, people who are taking this course
+
+6
+00:00:13,112 --> 00:00:16,008
+hopefully fall within three categories.
+
+7
+00:00:16,008 --> 00:00:18,852
+Beginners who have never programmed before,
+
+8
+00:00:18,852 --> 00:00:21,495
+programmers coming in from another language,
+
+9
+00:00:21,495 --> 00:00:24,599
+or intermediate Python programmers.
+
+10
+00:00:24,599 --> 00:00:27,256
+Now I'm going to discuss how you should approach this
+
+11
+00:00:27,256 --> 00:00:29,591
+course depending on what category you're in.
+
+12
+00:00:29,591 --> 00:00:32,536
+First, beginners who have never programmed.
+
+13
+00:00:32,536 --> 00:00:36,917
+Complete beginners should read the notebooks
+
+14
+00:00:36,917 --> 00:00:39,015
+before watching the screen casts.
+
+15
+00:00:39,015 --> 00:00:42,903
+Then, watch the screen cast and follow along.
+
+16
+00:00:42,903 --> 00:00:45,703
+Then, you should take the quiz, or test,
+
+17
+00:00:45,703 --> 00:00:47,864
+or corresponding homework assignments
+
+18
+00:00:47,864 --> 00:00:49,827
+to check for your understanding.
+
+19
+00:00:49,827 --> 00:00:52,741
+Afterwards, make sure to review the written notebook
+
+20
+00:00:52,741 --> 00:00:54,536
+to make sure you full understood
+
+21
+00:00:54,536 --> 00:00:56,453
+the lecture's material.
+
+22
+00:00:58,084 --> 00:01:01,219
+Now, if you're a programmer coming in from another language,
+
+23
+00:01:01,219 --> 00:01:06,024
+you should read the lecture notebooks and follow along.
+
+24
+00:01:06,024 --> 00:01:07,671
+Then, if something isn't clear,
+
+25
+00:01:07,671 --> 00:01:09,832
+go ahead and watch the screen cast.
+
+26
+00:01:09,832 --> 00:01:11,944
+Afterwards, you should take the quiz, test,
+
+27
+00:01:11,944 --> 00:01:13,478
+or corresponding homework assignment
+
+28
+00:01:13,478 --> 00:01:15,139
+and make sure you can check your understanding
+
+29
+00:01:15,139 --> 00:01:16,983
+either through the screen cast
+
+30
+00:01:16,983 --> 00:01:18,983
+or through the notebook.
+
+31
+00:01:21,026 --> 00:01:24,379
+Finally, for intermediate Python programmers,
+
+32
+00:01:24,379 --> 00:01:25,809
+you should read the notebook
+
+33
+00:01:25,809 --> 00:01:27,876
+and make sure you know the topic.
+
+34
+00:01:27,876 --> 00:01:29,466
+If you're and intermediate Python programmer,
+
+35
+00:01:29,466 --> 00:01:31,783
+you can probably skip the first few sections
+
+36
+00:01:31,783 --> 00:01:34,662
+of the course where we discuss Python basics.
+
+37
+00:01:34,662 --> 00:01:36,629
+Once you're at the advanced topics,
+
+38
+00:01:36,629 --> 00:01:38,486
+I would recommend you read the notebooks
+
+39
+00:01:38,486 --> 00:01:40,167
+and watch the screen casts
+
+40
+00:01:40,167 --> 00:01:42,005
+to get the most out of this course.
+
+41
+00:01:42,005 --> 00:01:44,594
+And do the corresponding either test,
+
+42
+00:01:44,594 --> 00:01:46,935
+quiz, or homework assignment for that section
+
+43
+00:01:46,935 --> 00:01:48,102
+of the course.
+
+44
+00:01:50,790 --> 00:01:52,582
+Now, discussing questions.
+
+45
+00:01:52,582 --> 00:01:54,774
+If after watching the screen cast or checking the notebook
+
+46
+00:01:54,774 --> 00:01:56,327
+something doesn't make sense,
+
+47
+00:01:56,327 --> 00:01:58,234
+feel free to start a discussion in the forums.
+
+48
+00:01:58,234 --> 00:02:00,709
+Remember to check if there is a FAQ,
+
+49
+00:02:00,709 --> 00:02:03,227
+Frequently Asked Questions lecture
+
+50
+00:02:03,227 --> 00:02:05,480
+corresponding with the lecture.
+
+51
+00:02:05,480 --> 00:02:07,959
+As this course gets populated with more students,
+
+52
+00:02:07,959 --> 00:02:10,247
+more FAQ lectures will begin to pop up
+
+53
+00:02:10,247 --> 00:02:12,644
+throughout the course.
+
+54
+00:02:12,644 --> 00:02:15,058
+Also, remember to use the search feature
+
+55
+00:02:15,058 --> 00:02:18,518
+in the discussion section for faster results.
+
+56
+00:02:18,518 --> 00:02:21,383
+Alright, that's it for this section of the course.
+
+57
+00:02:21,383 --> 00:02:24,021
+Up next, we'll learn how to instal Python
+
+58
+00:02:24,021 --> 00:02:27,203
+on our computers, and go over the basic course environment.
+
+59
+00:02:27,203 --> 00:02:31,018
+Thank you, and I will see you at the next lecture.
+

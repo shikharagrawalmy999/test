@@ -1,0 +1,236 @@
+1
+00:00:00,775 --> 00:00:01,774
+Instructor: Hola a
+
+2
+00:00:01,774 --> 00:00:04,839
+todos, y bienvenidos a la conferencia, Cmo abordar este curso.
+
+3
+00:00:04,839 --> 00:00:07,240
+Esta conferencia repasar los aspectos bsicos de
+
+4
+00:00:07,240 --> 00:00:09,924
+cmo obtener el mximo provecho de este curso.
+
+5
+00:00:09,924 --> 00:00:13,112
+Ahora, las personas que toman este curso
+
+6
+00:00:13,112 --> 00:00:16,008
+se encuentran dentro de tres categoras.
+
+7
+00:00:16,008 --> 00:00:18,852
+programadores que vienen de otro idioma
+
+8
+00:00:18,852 --> 00:00:21,495
+o programadores intermedios de Python.
+
+9
+00:00:21,495 --> 00:00:24,599
+Principiantes que nunca han programado antes,
+
+10
+00:00:24,599 --> 00:00:27,256
+Ahora voy a analizar cmo debe abordar este curso dependiendo
+
+11
+00:00:27,256 --> 00:00:29,591
+de la categora en la que se encuentre.
+
+12
+00:00:29,591 --> 00:00:32,536
+Primero, principiantes que nunca han programado.
+
+13
+00:00:32,536 --> 00:00:36,917
+Los principiantes deben leer los cuadernos antes
+
+14
+00:00:36,917 --> 00:00:39,015
+de mirar la pantalla.
+
+15
+00:00:39,015 --> 00:00:42,903
+Luego, mira la pantalla y sigue.
+
+16
+00:00:42,903 --> 00:00:45,703
+tareas correspondientes para verificar su comprensin.
+
+17
+00:00:45,703 --> 00:00:47,864
+Luego, debe tomar el examen,
+
+18
+00:00:47,864 --> 00:00:49,827
+la prueba o las
+
+19
+00:00:49,827 --> 00:00:52,741
+Despus, asegrese de revisar el cuaderno escrito para
+
+20
+00:00:52,741 --> 00:00:54,536
+asegurarse de que entiende completamente
+
+21
+00:00:54,536 --> 00:00:56,453
+el material de la conferencia.
+
+22
+00:00:58,084 --> 00:01:01,219
+Ahora, si usted es un programador que viene
+
+23
+00:01:01,219 --> 00:01:06,024
+de otro idioma, debe leer los cuadernos de conferencias y seguirlo.
+
+24
+00:01:06,024 --> 00:01:07,671
+mira el lanzamiento de la pantalla.
+
+25
+00:01:07,671 --> 00:01:09,832
+Luego, si algo no est claro, ve y
+
+26
+00:01:09,832 --> 00:01:11,944
+Luego, debe realizar la prueba, la prueba o
+
+27
+00:01:11,944 --> 00:01:13,478
+la asignacin de tarea correspondiente y
+
+28
+00:01:13,478 --> 00:01:15,139
+asegurarse de que puede verificar su
+
+29
+00:01:15,139 --> 00:01:16,983
+comprensin, ya sea a travs del elenco
+
+30
+00:01:16,983 --> 00:01:18,983
+de la pantalla o a travs del cuaderno.
+
+31
+00:01:21,026 --> 00:01:24,379
+de Python, debe leer el cuaderno y asegurarse
+
+32
+00:01:24,379 --> 00:01:25,809
+de conocer el tema.
+
+33
+00:01:25,809 --> 00:01:27,876
+Finalmente, para los programadores intermedios
+
+34
+00:01:27,876 --> 00:01:29,466
+Si eres un programador intermedio de
+
+35
+00:01:29,466 --> 00:01:31,783
+Python, probablemente te saltes las primeras secciones del curso
+
+36
+00:01:31,783 --> 00:01:34,662
+en las que hablaremos de los conceptos bsicos de Python.
+
+37
+00:01:34,662 --> 00:01:36,629
+Una vez que est en los
+
+38
+00:01:36,629 --> 00:01:38,486
+temas avanzados, le recomendara que lea
+
+39
+00:01:38,486 --> 00:01:40,167
+los cuadernos y mire la
+
+40
+00:01:40,167 --> 00:01:42,005
+pantalla para aprovechar al mximo este curso.
+
+41
+00:01:42,005 --> 00:01:44,594
+Y haga la correspondiente tarea de
+
+42
+00:01:44,594 --> 00:01:46,935
+prueba, cuestionario o tarea para esa
+
+43
+00:01:46,935 --> 00:01:48,102
+seccin del curso.
+
+44
+00:01:50,790 --> 00:01:52,582
+Ahora, discutiendo preguntas.
+
+45
+00:01:52,582 --> 00:01:54,774
+Si despus de ver la transmisin de la pantalla o
+
+46
+00:01:54,774 --> 00:01:56,327
+revisar el cuaderno algo no tiene sentido,
+
+47
+00:01:56,327 --> 00:01:58,234
+sintase libre de comenzar una discusin en los foros.
+
+48
+00:01:58,234 --> 00:02:00,709
+Frecuentes correspondiente a la conferencia.
+
+49
+00:02:00,709 --> 00:02:03,227
+Recuerde verificar si hay una
+
+50
+00:02:03,227 --> 00:02:05,480
+conferencia de Preguntas Frecuentes, Preguntas
+
+51
+00:02:05,480 --> 00:02:07,959
+A medida que este curso se llene con
+
+52
+00:02:07,959 --> 00:02:10,247
+ms estudiantes, comenzarn a aparecer ms clases
+
+53
+00:02:10,247 --> 00:02:12,644
+de preguntas frecuentes a lo largo del curso.
+
+54
+00:02:12,644 --> 00:02:15,058
+Adems, recuerde usar la funcin de bsqueda
+
+55
+00:02:15,058 --> 00:02:18,518
+en la seccin de discusin para obtener resultados ms rpidos.
+
+56
+00:02:18,518 --> 00:02:21,383
+De acuerdo, eso es todo por esta seccin del curso.
+
+57
+00:02:21,383 --> 00:02:24,021
+A continuacin, aprenderemos cmo instalar Python en
+
+58
+00:02:24,021 --> 00:02:27,203
+nuestras computadoras, y repasaremos el entorno bsico del curso.
+
+59
+00:02:27,203 --> 00:02:31,018
+Gracias, y te ver en la prxima conferencia.
+

@@ -1,0 +1,248 @@
+1
+00:00:00,897 --> 00:00:03,802
+<v ->Hello and welcome to the Complete Python Bootcamp.</v>
+
+2
+00:00:03,802 --> 00:00:05,261
+My name is Jose Portilla,
+
+3
+00:00:05,261 --> 00:00:07,823
+and I will be your instructor for this course.
+
+4
+00:00:07,823 --> 00:00:09,312
+I've taught thousands of students
+
+5
+00:00:09,312 --> 00:00:10,973
+on Udemy about data science,
+
+6
+00:00:10,973 --> 00:00:12,865
+and I'm excited to teach even more students
+
+7
+00:00:12,865 --> 00:00:14,535
+about the complete ins and outs
+
+8
+00:00:14,535 --> 00:00:17,360
+of the Python programming language.
+
+9
+00:00:17,360 --> 00:00:19,425
+This course is designed to take you from zero
+
+10
+00:00:19,425 --> 00:00:23,577
+to hero in Python in an easy and fun fashion.
+
+11
+00:00:23,577 --> 00:00:25,693
+So why learn Python?
+
+12
+00:00:25,693 --> 00:00:27,126
+Python is one of the most useful
+
+13
+00:00:27,126 --> 00:00:28,971
+programming languages to know,
+
+14
+00:00:28,971 --> 00:00:30,079
+and in recent years,
+
+15
+00:00:30,079 --> 00:00:33,889
+skill demand for Python has exploded in the job market.
+
+16
+00:00:33,889 --> 00:00:35,947
+With this course, it's easy to learn
+
+17
+00:00:35,947 --> 00:00:37,396
+and it's a very powerful tool
+
+18
+00:00:37,396 --> 00:00:41,225
+for implementing your own ideas with Python.
+
+19
+00:00:41,225 --> 00:00:43,380
+So who is this course for?
+
+20
+00:00:43,380 --> 00:00:44,453
+This course is suitable for
+
+21
+00:00:44,453 --> 00:00:46,904
+beginners that have never programmed,
+
+22
+00:00:46,904 --> 00:00:49,465
+programmers coming in from another language,
+
+23
+00:00:49,465 --> 00:00:50,488
+and finally,
+
+24
+00:00:50,488 --> 00:00:53,259
+programmers who know the basics of Python syntax
+
+25
+00:00:53,259 --> 00:00:55,014
+but want to bring their knowledge to the next level
+
+26
+00:00:55,014 --> 00:00:59,094
+with the advanced topics presented in this course.
+
+27
+00:00:59,094 --> 00:01:00,625
+So, what's the course like?
+
+28
+00:01:00,625 --> 00:01:02,194
+We'll start off by getting Python up
+
+29
+00:01:02,194 --> 00:01:03,529
+and running on your computer,
+
+30
+00:01:03,529 --> 00:01:05,393
+regardless of your operating system.
+
+31
+00:01:05,393 --> 00:01:09,222
+Whether you're using Windows, Mac or Linux.
+
+32
+00:01:09,222 --> 00:01:12,966
+Then you'll get lifetime access to over 100 lectures,
+
+33
+00:01:12,966 --> 00:01:15,834
+discussing everything from basic Python syntax,
+
+34
+00:01:15,834 --> 00:01:18,618
+to the advanced topics and modules in Python.
+
+35
+00:01:18,618 --> 00:01:20,703
+Each lecture includes a video screencast
+
+36
+00:01:20,703 --> 00:01:22,858
+with clear concept explanations,
+
+37
+00:01:22,858 --> 00:01:25,696
+as well as entire notebooks filled with both code
+
+38
+00:01:25,696 --> 00:01:27,243
+and written explanations.
+
+39
+00:01:27,243 --> 00:01:30,645
+So you can learn in whatever way is best for you.
+
+40
+00:01:30,645 --> 00:01:32,816
+There's tests, quizzes, and homework assignments
+
+41
+00:01:32,816 --> 00:01:36,466
+all along the way to check your understanding.
+
+42
+00:01:36,466 --> 00:01:39,232
+This course is also project-based with milestone projects
+
+43
+00:01:39,232 --> 00:01:41,272
+where you will create games with Python,
+
+44
+00:01:41,272 --> 00:01:44,790
+including a final capstone project.
+
+45
+00:01:44,790 --> 00:01:47,822
+You'll also learn how to avoid commoner mistakes in Python,
+
+46
+00:01:47,822 --> 00:01:50,120
+and learn best programming practises,
+
+47
+00:01:50,120 --> 00:01:54,464
+such as code formatting and object-oriented programming.
+
+48
+00:01:54,464 --> 00:01:55,979
+Once you complete this course,
+
+49
+00:01:55,979 --> 00:01:57,843
+you'll feel extremely confident putting
+
+50
+00:01:57,843 --> 00:02:00,770
+Python programming on your resume.
+
+51
+00:02:00,770 --> 00:02:02,530
+More importantly, you'll learn to have
+
+52
+00:02:02,530 --> 00:02:05,113
+a lifelong love of programming,
+
+53
+00:02:06,189 --> 00:02:09,267
+and there's a 30 day money back guarantee.
+
+54
+00:02:09,267 --> 00:02:10,918
+If you're unsatisfied in any way,
+
+55
+00:02:10,918 --> 00:02:13,936
+you get your money back, no questions asked.
+
+56
+00:02:13,936 --> 00:02:16,311
+You'll also be able to keep the over 100 lecture notes
+
+57
+00:02:16,311 --> 00:02:19,696
+as a thank you for trying out the course.
+
+58
+00:02:19,696 --> 00:02:21,671
+Check out the next preview video
+
+59
+00:02:21,671 --> 00:02:25,428
+for a full curriculum overview of the entire course.
+
+60
+00:02:25,428 --> 00:02:26,628
+So what are you waiting for?
+
+61
+00:02:26,628 --> 00:02:28,001
+Enrol in the course today
+
+62
+00:02:28,001 --> 00:02:31,501
+and learn the power of Python Programming.
+

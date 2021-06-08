@@ -1,0 +1,236 @@
+1
+00:00:00,775 --> 00:00:01,774
+Okutman: Herkese
+
+2
+00:00:01,774 --> 00:00:04,839
+merhaba ve bu Kursa Yaklam Dersine ho geldiniz.
+
+3
+00:00:04,839 --> 00:00:07,240
+Bu derste bu dersin en iyi
+
+4
+00:00:07,240 --> 00:00:09,924
+ekilde nasl alnlacann temelleri zerinde durulacaktr.
+
+5
+00:00:09,924 --> 00:00:13,112
+imdi, bu dersi alanlar
+
+6
+00:00:13,112 --> 00:00:16,008
+umarm  kategoriye girer.
+
+7
+00:00:16,008 --> 00:00:18,852
+balayanlar, baka bir dilden gelen
+
+8
+00:00:18,852 --> 00:00:21,495
+programclar veya ara Python programclar.
+
+9
+00:00:21,495 --> 00:00:24,599
+Daha nce hi programlamayan yeni
+
+10
+00:00:24,599 --> 00:00:27,256
+imdi hangi kategoride olduunuza gre bu
+
+11
+00:00:27,256 --> 00:00:29,591
+kursa nasl yaklamanz gerektiini tartacam.
+
+12
+00:00:29,591 --> 00:00:32,536
+lk nce, hi programlamayan yeni balayanlar.
+
+13
+00:00:32,536 --> 00:00:36,917
+Yeni balayanlar, ekran grntlerini izlemeden nce
+
+14
+00:00:36,917 --> 00:00:39,015
+dizst bilgisayarlarn okumaldr.
+
+15
+00:00:39,015 --> 00:00:42,903
+Ardndan, ekran grntsn izle ve takip edin.
+
+16
+00:00:42,903 --> 00:00:45,703
+veya karlk gelen dev devlerini almalsnz.
+
+17
+00:00:45,703 --> 00:00:47,864
+Ardndan, anlaynz kontrol etmek
+
+18
+00:00:47,864 --> 00:00:49,827
+iin testi veya testi
+
+19
+00:00:49,827 --> 00:00:52,741
+Daha sonra, dersin materyalini tam olarak anlayabildiinizden
+
+20
+00:00:52,741 --> 00:00:54,536
+emin olmak iin yazl
+
+21
+00:00:54,536 --> 00:00:56,453
+defteri gzden geirdiinizden emin olun.
+
+22
+00:00:58,084 --> 00:01:01,219
+imdi, baka bir dilde gelen bir
+
+23
+00:01:01,219 --> 00:01:06,024
+programc iseniz, ders not defterlerini okumal ve birlikte takip etmelisiniz.
+
+24
+00:01:06,024 --> 00:01:07,671
+edin ve ekran grntsn izleyin.
+
+25
+00:01:07,671 --> 00:01:09,832
+Ardndan, bir ey net deilse, devam
+
+26
+00:01:09,832 --> 00:01:11,944
+Ardndan, snav, testi veya karlk
+
+27
+00:01:11,944 --> 00:01:13,478
+gelen ev devini yapmal
+
+28
+00:01:13,478 --> 00:01:15,139
+ve anladnz ekran st
+
+29
+00:01:15,139 --> 00:01:16,983
+yaz araclyla veya not defteri
+
+30
+00:01:16,983 --> 00:01:18,983
+araclyla kontrol edebildiinden emin olmalsn.
+
+31
+00:01:21,026 --> 00:01:24,379
+programclar iin defteri okumal ve konuyu
+
+32
+00:01:24,379 --> 00:01:25,809
+bildiinizden emin olmalsn.
+
+33
+00:01:25,809 --> 00:01:27,876
+Son olarak, ara Python
+
+34
+00:01:27,876 --> 00:01:29,466
+Python programcs iseniz ve
+
+35
+00:01:29,466 --> 00:01:31,783
+aradnz kiiyseniz, muhtemelen Python'un temellerini
+
+36
+00:01:31,783 --> 00:01:34,662
+tarttmz kursun ilk birka blmn atlayabilirsiniz.
+
+37
+00:01:34,662 --> 00:01:36,629
+Bir kez gelimi konularda olduunuzda,
+
+38
+00:01:36,629 --> 00:01:38,486
+defterleri okumanz ve bu dersden
+
+39
+00:01:38,486 --> 00:01:40,167
+en iyi sonucu alabilmeniz
+
+40
+00:01:40,167 --> 00:01:42,005
+iin ekran grntlerini izlemenizi neririm.
+
+41
+00:01:42,005 --> 00:01:44,594
+Ve dersin bu blmnde ilgili
+
+42
+00:01:44,594 --> 00:01:46,935
+test, ksa snav veya ev
+
+43
+00:01:46,935 --> 00:01:48,102
+devi yapn.
+
+44
+00:01:50,790 --> 00:01:52,582
+imdi, tartmak sorular.
+
+45
+00:01:52,582 --> 00:01:54,774
+Ekran grntsn izledikten sonra veya dizst bilgisayar
+
+46
+00:01:54,774 --> 00:01:56,327
+kontrol ederek bir eyler mantkl
+
+47
+00:01:56,327 --> 00:01:58,234
+gelmezse forumlarda bir tartma balatmaya ekinmeyin.
+
+48
+00:01:58,234 --> 00:02:00,709
+olmadn kontrol etmeyi unutmayn.
+
+49
+00:02:00,709 --> 00:02:03,227
+Konuyla ilgili bir SSS, Ska
+
+50
+00:02:03,227 --> 00:02:05,480
+Sorulan Sorular dersinin olup
+
+51
+00:02:05,480 --> 00:02:07,959
+Bu ders daha fazla renci
+
+52
+00:02:07,959 --> 00:02:10,247
+ile doldurulduunda, ders boyunca
+
+53
+00:02:10,247 --> 00:02:12,644
+daha fazla SSS dersi balayacaktr.
+
+54
+00:02:12,644 --> 00:02:15,058
+Ayrca, daha hzl sonular iin
+
+55
+00:02:15,058 --> 00:02:18,518
+tartma blmndeki arama zelliini kullanmay unutmayn.
+
+56
+00:02:18,518 --> 00:02:21,383
+Pekl, dersin bu blm iin bu kadar.
+
+57
+00:02:21,383 --> 00:02:24,021
+Daha sonra, Python'u bilgisayarlarmza nasl kuracanz
+
+58
+00:02:24,021 --> 00:02:27,203
+ve temel kurs ortamn nasl reneceimizi reneceiz.
+
+59
+00:02:27,203 --> 00:02:31,018
+Teekkrler, bir sonraki derside grrz.
+

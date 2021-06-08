@@ -1,0 +1,248 @@
+1
+00:00:00,897 --> 00:00:03,802
+-: Merhaba ve Complete Python Bootcamp'a ho geldiniz.
+
+2
+00:00:03,802 --> 00:00:05,261
+Benim adm Jose Portilla,
+
+3
+00:00:05,261 --> 00:00:07,823
+ve bu ders iin retim grevlisi olacam.
+
+4
+00:00:07,823 --> 00:00:09,312
+Umedy'de binlerce renciye veri
+
+5
+00:00:09,312 --> 00:00:10,973
+bilimi hakknda ders verdim
+
+6
+00:00:10,973 --> 00:00:12,865
+ve Python programlama dilinin eksiksiz
+
+7
+00:00:12,865 --> 00:00:14,535
+ve eksiksiz unsurlar hakknda
+
+8
+00:00:14,535 --> 00:00:17,360
+daha fazla renciyi eitmekten ok heyecanlym.
+
+9
+00:00:17,360 --> 00:00:19,425
+Bu ders sizi Python'da sfrdan
+
+10
+00:00:19,425 --> 00:00:23,577
+kahramana kolay ve elenceli bir ekilde gtrecek ekilde tasarlanmtr.
+
+11
+00:00:23,577 --> 00:00:25,693
+yleyse Python'u neden reneceim?
+
+12
+00:00:25,693 --> 00:00:27,126
+Python bilmek iin
+
+13
+00:00:27,126 --> 00:00:28,971
+en kullanl programlama dillerinden
+
+14
+00:00:28,971 --> 00:00:30,079
+biridir ve son
+
+15
+00:00:30,079 --> 00:00:33,889
+yllarda Python iin beceri talebi i piyasasnda patlak vermitir.
+
+16
+00:00:33,889 --> 00:00:35,947
+ok gl bir aratr.
+
+17
+00:00:35,947 --> 00:00:37,396
+Bu dersle renmek
+
+18
+00:00:37,396 --> 00:00:41,225
+kolaydr ve kendi fikirlerini Python ile uygulamak iin
+
+19
+00:00:41,225 --> 00:00:43,380
+Peki bu ders kimin iin?
+
+20
+00:00:43,380 --> 00:00:44,453
+Bu ders,
+
+21
+00:00:44,453 --> 00:00:46,904
+hi programlanmad yeni balayanlar, baka
+
+22
+00:00:46,904 --> 00:00:49,465
+bir dilden gelen programclar ve
+
+23
+00:00:49,465 --> 00:00:50,488
+nihayet Python
+
+24
+00:00:50,488 --> 00:00:53,259
+szdiziminin temellerini bilen, ancak bu derste
+
+25
+00:00:53,259 --> 00:00:55,014
+sunulan ileri konularla bilgilerini
+
+26
+00:00:55,014 --> 00:00:59,094
+bir st dzeye getirmek isteyen programclar iin uygundur.
+
+27
+00:00:59,094 --> 00:01:00,625
+Peki yol ne gibi?
+
+28
+00:01:00,625 --> 00:01:02,194
+letim sisteminizden bamsz
+
+29
+00:01:02,194 --> 00:01:03,529
+olarak Python'u bilgisayarnzda
+
+30
+00:01:03,529 --> 00:01:05,393
+altrp balatarak balayacaz.
+
+31
+00:01:05,393 --> 00:01:09,222
+ster Windows, Mac veya Linux kullanyorsunuz.
+
+32
+00:01:09,222 --> 00:01:12,966
+konulara ve modllere kadar her eyi tartrsnz.
+
+33
+00:01:12,966 --> 00:01:15,834
+Sonra, 100'den fazla konferansa mr boyu
+
+34
+00:01:15,834 --> 00:01:18,618
+eriebilir, temel Python szdiziminden Python'daki gelimi
+
+35
+00:01:18,618 --> 00:01:20,703
+Her ders net bir konsept aklamas
+
+36
+00:01:20,703 --> 00:01:22,858
+olan bir video screencast yan sra
+
+37
+00:01:22,858 --> 00:01:25,696
+hem kod hem de yazl aklamalar ile dolu
+
+38
+00:01:25,696 --> 00:01:27,243
+tm dizst bilgisayar iermektedir.
+
+39
+00:01:27,243 --> 00:01:30,645
+Bylece sizin iin en iyi olan renebilirsiniz.
+
+40
+00:01:30,645 --> 00:01:32,816
+ve devler var.
+
+41
+00:01:32,816 --> 00:01:36,466
+Anlaynz kontrol etme yolunda testler, snavlar
+
+42
+00:01:36,466 --> 00:01:39,232
+Bu ders ayrca, final capstone projesi
+
+43
+00:01:39,232 --> 00:01:41,272
+de dahil olmak zere, Python'la
+
+44
+00:01:41,272 --> 00:01:44,790
+oyun yaratacanz kilometre ta projelerine dayanan bir projedir.
+
+45
+00:01:44,790 --> 00:01:47,822
+Ayrca, Python'da genel hatalar nlemeyi ve
+
+46
+00:01:47,822 --> 00:01:50,120
+kod biimlendirme ve nesne
+
+47
+00:01:50,120 --> 00:01:54,464
+tabanl programlama gibi en iyi programlama uygulamalarn renirsiniz.
+
+48
+00:01:54,464 --> 00:01:55,979
+emin olabilirsiniz.
+
+49
+00:01:55,979 --> 00:01:57,843
+Bu dersi tamamladnzda,
+
+50
+00:01:57,843 --> 00:02:00,770
+zgemiinizde Python programlamay koyduunuzdan
+
+51
+00:02:00,770 --> 00:02:02,530
+Daha da nemlisi, hayat
+
+52
+00:02:02,530 --> 00:02:05,113
+boyu srecek bir programlama sevgisini reneceksin
+
+53
+00:02:06,189 --> 00:02:09,267
+ve 30 gn para iadesi garantisi var.
+
+54
+00:02:09,267 --> 00:02:10,918
+Eer herhangi bir ekilde
+
+55
+00:02:10,918 --> 00:02:13,936
+memnun kalmazsan paranz geri alrsnz, hibir soru sormaz.
+
+56
+00:02:13,936 --> 00:02:16,311
+notunu bir teekkr olarak saklayabileceksiniz.
+
+57
+00:02:16,311 --> 00:02:19,696
+Ayrca dersi denediiniz iin 100'n zerinde ders
+
+58
+00:02:19,696 --> 00:02:21,671
+Kursun tamamna mfredata genel
+
+59
+00:02:21,671 --> 00:02:25,428
+bir bak iin bir sonraki nizleme videosuna gz atn.
+
+60
+00:02:25,428 --> 00:02:26,628
+Ne bekliyorsun
+
+61
+00:02:26,628 --> 00:02:28,001
+Bugn elbette kayt
+
+62
+00:02:28,001 --> 00:02:31,501
+olun ve Python Programlamann gcn renin.
+

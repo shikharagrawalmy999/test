@@ -1,0 +1,388 @@
+1
+00:00:01,471 --> 00:00:02,304
+Istruttore: Ciao,
+
+2
+00:00:02,304 --> 00:00:04,506
+benvenuto nella panoramica del curriculum del corso.
+
+3
+00:00:04,506 --> 00:00:05,474
+In questo video,
+
+4
+00:00:05,474 --> 00:00:07,016
+otterremo una breve panoramica
+
+5
+00:00:07,016 --> 00:00:09,466
+di tutti i contenuti di questo corso.
+
+6
+00:00:09,466 --> 00:00:12,049
+Andiamo avanti e cominciamo.
+
+7
+00:00:12,928 --> 00:00:14,018
+Innanzitutto, questo corso
+
+8
+00:00:14,018 --> 00:00:15,735
+inizia con una sezione introduttiva
+
+9
+00:00:15,735 --> 00:00:17,352
+che include questa panoramica, una
+
+10
+00:00:17,352 --> 00:00:20,543
+discussione di Python 2 contro Python 3 e una
+
+11
+00:00:20,543 --> 00:00:23,044
+lezione sul modo migliore di avvicinarsi a
+
+12
+00:00:23,044 --> 00:00:26,751
+questo corso per massimizzare i benefici derivanti dal seguire questo corso.
+
+13
+00:00:26,751 --> 00:00:30,206
+Dopodich, inizieremo con la sezione di installazione di Python.
+
+14
+00:00:30,206 --> 00:00:32,962
+Impareremo come installare Python sul tuo computer,
+
+15
+00:00:32,962 --> 00:00:35,082
+impareremo la selezione dell'ambiente, impareremo
+
+16
+00:00:35,082 --> 00:00:37,451
+a conoscere il sistema Jupyter Notebooks.
+
+17
+00:00:37,451 --> 00:00:40,448
+Avrai accesso a risorse didattiche aggiuntive online,
+
+18
+00:00:40,448 --> 00:00:45,084
+e poi avremo una breve panoramica su Git e GitHub.
+
+19
+00:00:45,084 --> 00:00:47,614
+Successivamente, iniziamo con le sezioni di codice live.
+
+20
+00:00:47,614 --> 00:00:50,513
+Impareremo a conoscere gli oggetti e le
+
+21
+00:00:50,513 --> 00:00:53,550
+basi della struttura dei dati, inclusi numeri, stringhe,
+
+22
+00:00:53,550 --> 00:00:55,756
+elenchi, dizionari, tuple, file, set e
+
+23
+00:00:55,756 --> 00:00:57,632
+booleani, tutti in Python.
+
+24
+00:00:57,632 --> 00:00:59,687
+per mettere alla prova la tua comprensione.
+
+25
+00:00:59,687 --> 00:01:02,316
+Dopo ciascuna di queste lezioni individuali, ci sono dei quiz
+
+26
+00:01:02,316 --> 00:01:05,018
+E alla fine di questa sezione, c' un test di
+
+27
+00:01:05,018 --> 00:01:06,356
+valutazione in modo da poter
+
+28
+00:01:06,356 --> 00:01:09,065
+verificare le tue conoscenze su ciascuno di questi argomenti.
+
+29
+00:01:09,065 --> 00:01:12,428
+Successivamente, andremo alla sezione sugli operatori di confronto.
+
+30
+00:01:12,428 --> 00:01:14,067
+operatori di confronto concatenati, con
+
+31
+00:01:14,067 --> 00:01:16,152
+questa sezione che termina con un
+
+32
+00:01:16,152 --> 00:01:18,307
+quiz per testare la tua comprensione.
+
+33
+00:01:18,307 --> 00:01:21,279
+Impareremo sia gli operatori di base che gli
+
+34
+00:01:21,279 --> 00:01:23,372
+Quindi, passeremo alle istruzioni Python incluse
+
+35
+00:01:23,372 --> 00:01:26,109
+le istruzioni if, per i loop, i cicli
+
+36
+00:01:26,109 --> 00:01:28,528
+while, la funzione range e le list
+
+37
+00:01:28,528 --> 00:01:29,861
+comprehensions, tutto in Python.
+
+38
+00:01:29,861 --> 00:01:31,409
+Con un test di
+
+39
+00:01:31,409 --> 00:01:34,358
+valutazione alla fine per testare la tua comprensione.
+
+40
+00:01:34,358 --> 00:01:36,866
+Successivamente, impareremo i metodi e le funzioni.
+
+41
+00:01:36,866 --> 00:01:38,754
+Cosa sono, come crearli.
+
+42
+00:01:38,754 --> 00:01:40,556
+Impareremo anche le espressioni Lambda,
+
+43
+00:01:40,556 --> 00:01:42,139
+le istruzioni nidificate in
+
+44
+00:01:42,139 --> 00:01:44,225
+Python e l'ambito in Python.
+
+45
+00:01:44,225 --> 00:01:45,801
+Completeremo il tutto con un compito
+
+46
+00:01:45,801 --> 00:01:49,215
+a casa per testare la tua comprensione dei metodi e delle funzioni.
+
+47
+00:01:49,215 --> 00:01:52,449
+Quindi, avrai il tuo primo progetto
+
+48
+00:01:52,449 --> 00:01:56,413
+milestone in cui creerai un gioco con Python.
+
+49
+00:01:56,413 --> 00:01:59,667
+Quindi, passeremo alla programmazione orientata agli oggetti, in
+
+50
+00:01:59,667 --> 00:02:01,043
+cui impareremo a
+
+51
+00:02:01,043 --> 00:02:03,866
+conoscere oggetti, classi, metodi, ereditariet e metodi
+
+52
+00:02:03,866 --> 00:02:05,565
+speciali tutti in Python.
+
+53
+00:02:05,565 --> 00:02:06,895
+Quindi otterrai un compito a
+
+54
+00:02:06,895 --> 00:02:09,145
+casa per mettere alla prova la tua comprensione.
+
+55
+00:02:10,266 --> 00:02:11,099
+Successivamente, apprenderemo
+
+56
+00:02:11,099 --> 00:02:13,950
+gli errori e la gestione delle eccezioni in
+
+57
+00:02:13,950 --> 00:02:15,235
+Python, compresi gli errori,
+
+58
+00:02:15,235 --> 00:02:16,190
+le eccezioni e
+
+59
+00:02:16,190 --> 00:02:18,356
+come utilizzare try, accept e infine
+
+60
+00:02:18,356 --> 00:02:20,520
+per gestire errori ed eccezioni.
+
+61
+00:02:20,520 --> 00:02:22,812
+Quindi, completeremo l'esame con un test per testare
+
+62
+00:02:22,812 --> 00:02:24,181
+le tue conoscenze e la
+
+63
+00:02:24,181 --> 00:02:25,931
+tua comprensione fino ad ora nel corso.
+
+64
+00:02:27,469 --> 00:02:30,829
+in cui creerai un gioco pi complesso tutto in Python.
+
+65
+00:02:30,829 --> 00:02:33,081
+Quindi, ti verr in mente il tuo
+
+66
+00:02:33,081 --> 00:02:34,248
+secondo progetto milestone
+
+67
+00:02:35,545 --> 00:02:38,960
+In seguito impareremo su Moduli e Pacchetti in Python.
+
+68
+00:02:38,960 --> 00:02:39,800
+Come
+
+69
+00:02:39,800 --> 00:02:41,594
+crearli, come installarli
+
+70
+00:02:41,594 --> 00:02:45,761
+da internet e esploreremo l'Ecosistema Python in generale.
+
+71
+00:02:46,610 --> 00:02:49,022
+reduce, filter, zip, enumerate, all e
+
+72
+00:02:49,022 --> 00:02:51,857
+any e anche come gestire numeri complessi.
+
+73
+00:02:51,857 --> 00:02:55,315
+Quindi passeremo alle funzioni built-in in Python come map,
+
+74
+00:02:55,315 --> 00:02:56,307
+Alla fine di
+
+75
+00:02:56,307 --> 00:02:58,363
+questa sezione, avremo un test di valutazione
+
+76
+00:02:58,363 --> 00:02:59,779
+finale in cui  possibile
+
+77
+00:02:59,779 --> 00:03:01,696
+testare la comprensione per le funzioni integrate.
+
+78
+00:03:02,896 --> 00:03:05,517
+Successivamente, impareremo a conoscere i decoratori in Python.
+
+79
+00:03:05,517 --> 00:03:08,712
+Una serie di tre parti che termina con un compito a casa.
+
+80
+00:03:08,712 --> 00:03:11,640
+testare le tue conoscenze sui Generatori Python.
+
+81
+00:03:11,640 --> 00:03:14,419
+Successivamente, impareremo a conoscere i Generatori Python,
+
+82
+00:03:14,419 --> 00:03:17,038
+tra cui discussioni di iterazione contro
+
+83
+00:03:17,038 --> 00:03:21,205
+generazione, come creare generatori e un compito a casa, per
+
+84
+00:03:22,173 --> 00:03:24,178
+Dopodich, metteremo insieme tutto ci che
+
+85
+00:03:24,178 --> 00:03:27,263
+hai imparato in un progetto di capstone finale.
+
+86
+00:03:27,263 --> 00:03:28,392
+Ma non  tutto.
+
+87
+00:03:28,392 --> 00:03:30,349
+strutture avanzate di oggetti e dati
+
+88
+00:03:30,349 --> 00:03:33,508
+Python, in modo da poter migliorare le tue conoscenze.
+
+89
+00:03:33,508 --> 00:03:35,418
+Sono disponibili contenuti bonus avanzati, tra
+
+90
+00:03:35,418 --> 00:03:38,288
+cui un'intera sezione sui moduli Python avanzati e
+
+91
+00:03:38,288 --> 00:03:40,923
+Nuovi contenuti sono regolarmente aggiunti a questa
+
+92
+00:03:40,923 --> 00:03:42,923
+sezione con dozzine di conferenze.
+
+93
+00:03:44,000 --> 00:03:46,308
+Avrai anche accesso ai forum della
+
+94
+00:03:46,308 --> 00:03:50,160
+comunit e un aiuto dedicato da parte mia, il tuo istruttore.
+
+95
+00:03:50,160 --> 00:03:53,357
+Quindi, questa  l'intera panoramica del curriculum del corso,
+
+96
+00:03:53,357 --> 00:03:56,152
+quindi andiamo avanti e iniziamo con il corso.
+
+97
+00:03:56,152 --> 00:04:00,235
+Grazie, e ci vediamo alla prossima lezione.
+

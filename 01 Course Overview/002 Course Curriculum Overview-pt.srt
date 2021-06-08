@@ -1,0 +1,388 @@
+1
+00:00:01,471 --> 00:00:02,304
+Instrutor: Ol e seja
+
+2
+00:00:02,304 --> 00:00:04,506
+bem vindo  viso geral do currculo do curso.
+
+3
+00:00:04,506 --> 00:00:05,474
+Neste vdeo, estaremos
+
+4
+00:00:05,474 --> 00:00:07,016
+recebendo uma breve viso
+
+5
+00:00:07,016 --> 00:00:09,466
+geral de todo o contedo deste curso.
+
+6
+00:00:09,466 --> 00:00:12,049
+Vamos continuar e comear.
+
+7
+00:00:12,928 --> 00:00:14,018
+Primeiro, este curso
+
+8
+00:00:14,018 --> 00:00:15,735
+comea com uma seo de
+
+9
+00:00:15,735 --> 00:00:17,352
+introduo, incluindo esta viso geral,
+
+10
+00:00:17,352 --> 00:00:20,543
+uma discusso sobre o Python 2 versus o Python 3
+
+11
+00:00:20,543 --> 00:00:23,044
+e uma palestra sobre a melhor maneira de
+
+12
+00:00:23,044 --> 00:00:26,751
+abordar este curso para maximizar seus benefcios de tomar esse curso.
+
+13
+00:00:26,751 --> 00:00:30,206
+Depois disso, vamos comear com a seo Python Setup.
+
+14
+00:00:30,206 --> 00:00:32,962
+Aprenderemos a instalar o Python no seu computador,
+
+15
+00:00:32,962 --> 00:00:35,082
+aprenderemos sobre a seleo do meio
+
+16
+00:00:35,082 --> 00:00:37,451
+ambiente, aprenderemos sobre o sistema Jupyter Notebooks.
+
+17
+00:00:37,451 --> 00:00:40,448
+Voc ter acesso a recursos de aprendizagem adicionais on-line,
+
+18
+00:00:40,448 --> 00:00:45,084
+e ento teremos uma breve viso geral sobre o Git e o GitHub.
+
+19
+00:00:45,084 --> 00:00:47,614
+Em seguida, comeamos com as sees de cdigo ao vivo.
+
+20
+00:00:47,614 --> 00:00:50,513
+Aprenderemos sobre os conceitos bsicos de
+
+21
+00:00:50,513 --> 00:00:53,550
+objetos e dados, incluindo nmeros, strings, listas,
+
+22
+00:00:53,550 --> 00:00:55,756
+dicionrios, tuplas, arquivos, conjuntos e
+
+23
+00:00:55,756 --> 00:00:57,632
+booleanos, tudo em Python.
+
+24
+00:00:57,632 --> 00:00:59,687
+h questionrios para testar sua compreenso.
+
+25
+00:00:59,687 --> 00:01:02,316
+Depois de cada uma dessas palestras individuais,
+
+26
+00:01:02,316 --> 00:01:05,018
+E no final desta seo, h um teste de
+
+27
+00:01:05,018 --> 00:01:06,356
+avaliao para que voc
+
+28
+00:01:06,356 --> 00:01:09,065
+possa verificar seu conhecimento sobre cada um desses tpicos.
+
+29
+00:01:09,065 --> 00:01:12,428
+Depois, iremos para a seo sobre Operadores de comparao.
+
+30
+00:01:12,428 --> 00:01:14,067
+comparao em cadeia, com
+
+31
+00:01:14,067 --> 00:01:16,152
+esta seo terminando com um
+
+32
+00:01:16,152 --> 00:01:18,307
+questionrio para testar sua compreenso.
+
+33
+00:01:18,307 --> 00:01:21,279
+Aprenderemos sobre operadores bsicos e operadores de
+
+34
+00:01:21,279 --> 00:01:23,372
+Ento, nos moveremos para as declaraes de
+
+35
+00:01:23,372 --> 00:01:26,109
+Python, incluindo instrues if, para loops, while loops, a
+
+36
+00:01:26,109 --> 00:01:28,528
+funo de intervalo e as configuraes de lista,
+
+37
+00:01:28,528 --> 00:01:29,861
+tudo em Python.
+
+38
+00:01:29,861 --> 00:01:31,409
+Com um teste de
+
+39
+00:01:31,409 --> 00:01:34,358
+avaliao no final para testar seu entendimento.
+
+40
+00:01:34,358 --> 00:01:36,866
+Em seguida, aprenderemos sobre mtodos e funes.
+
+41
+00:01:36,866 --> 00:01:38,754
+O que so, como cri-los.
+
+42
+00:01:38,754 --> 00:01:40,556
+Tambm aprenderemos sobre expresses
+
+43
+00:01:40,556 --> 00:01:42,139
+Lambda, declaraes aninhadas em
+
+44
+00:01:42,139 --> 00:01:44,225
+Python e escopo em Python.
+
+45
+00:01:44,225 --> 00:01:45,801
+Vamos completar com uma tarefa
+
+46
+00:01:45,801 --> 00:01:49,215
+de tarefa para testar sua compreenso sobre mtodos e funes.
+
+47
+00:01:49,215 --> 00:01:52,449
+Ento, voc ter seu primeiro projeto de
+
+48
+00:01:52,449 --> 00:01:56,413
+marco onde voc criar um jogo com o Python.
+
+49
+00:01:56,413 --> 00:01:59,667
+Ento, passaremos para a programao orientada objetivada,
+
+50
+00:01:59,667 --> 00:02:01,043
+onde aprenderemos sobre
+
+51
+00:02:01,043 --> 00:02:03,866
+objetos, classes, mtodos, herana e mtodos
+
+52
+00:02:03,866 --> 00:02:05,565
+especiais em Python.
+
+53
+00:02:05,565 --> 00:02:06,895
+Ento voc ter uma
+
+54
+00:02:06,895 --> 00:02:09,145
+tarefa de tarefa para testar seu entendimento.
+
+55
+00:02:10,266 --> 00:02:11,099
+Depois disso,
+
+56
+00:02:11,099 --> 00:02:13,950
+aprenderemos sobre erros e manipulao de excees no
+
+57
+00:02:13,950 --> 00:02:15,235
+Python, incluindo quais erros
+
+58
+00:02:15,235 --> 00:02:16,190
+so, quais excees
+
+59
+00:02:16,190 --> 00:02:18,356
+so e como usar, tentar e
+
+60
+00:02:18,356 --> 00:02:20,520
+aceitar lidar com erros e excees.
+
+61
+00:02:20,520 --> 00:02:22,812
+Ento, vamos completar com um teste para
+
+62
+00:02:22,812 --> 00:02:24,181
+testar seu conhecimento e
+
+63
+00:02:24,181 --> 00:02:25,931
+sua compreenso at agora no curso.
+
+64
+00:02:27,469 --> 00:02:30,829
+voc vai criar um jogo mais complexo em Python.
+
+65
+00:02:30,829 --> 00:02:33,081
+Ento, voc encontrar seu segundo projeto
+
+66
+00:02:33,081 --> 00:02:34,248
+de marco onde
+
+67
+00:02:35,545 --> 00:02:38,960
+Depois, aprenderemos sobre mdulos e pacotes no Python.
+
+68
+00:02:38,960 --> 00:02:39,800
+Como cri-los,
+
+69
+00:02:39,800 --> 00:02:41,594
+como instal-los a partir
+
+70
+00:02:41,594 --> 00:02:45,761
+da internet, e exploraremos o Python Ecosystem em geral.
+
+71
+00:02:46,610 --> 00:02:49,022
+reduo, filtro, zip, enumerar, tudo e qualquer,
+
+72
+00:02:49,022 --> 00:02:51,857
+e at mesmo como lidar com nmeros complexos.
+
+73
+00:02:51,857 --> 00:02:55,315
+Em seguida, passaremos para funes integradas no Python, como mapa,
+
+74
+00:02:55,315 --> 00:02:56,307
+No final desta
+
+75
+00:02:56,307 --> 00:02:58,363
+seo, teremos um teste de avaliao
+
+76
+00:02:58,363 --> 00:02:59,779
+final onde voc pode
+
+77
+00:02:59,779 --> 00:03:01,696
+testar sua compreenso para as funes internas.
+
+78
+00:03:02,896 --> 00:03:05,517
+Em seguida, aprenderemos sobre decoradores em Python.
+
+79
+00:03:05,517 --> 00:03:08,712
+Uma srie de trs partes que termina com uma tarefa de lio de casa.
+
+80
+00:03:08,712 --> 00:03:11,640
+testar seu conhecimento sobre os geradores de Python.
+
+81
+00:03:11,640 --> 00:03:14,419
+Depois, aprenderemos sobre os geradores de Python,
+
+82
+00:03:14,419 --> 00:03:17,038
+incluindo discusses de iterao versus gerao, como
+
+83
+00:03:17,038 --> 00:03:21,205
+criar geradores e uma tarefa de trabalho de casa novamente, para
+
+84
+00:03:22,173 --> 00:03:24,178
+Depois disso, juntaremos tudo o que
+
+85
+00:03:24,178 --> 00:03:27,263
+voc aprendeu em um projeto de capstone final.
+
+86
+00:03:27,263 --> 00:03:28,392
+Mas isso no  tudo.
+
+87
+00:03:28,392 --> 00:03:30,349
+e estruturas avanadas de objetos e
+
+88
+00:03:30,349 --> 00:03:33,508
+dados Python, para que voc possa nivelar seu conhecimento.
+
+89
+00:03:33,508 --> 00:03:35,418
+H um contedo adicional avanado,
+
+90
+00:03:35,418 --> 00:03:38,288
+incluindo uma seo inteira sobre Mdulos Python Avanados
+
+91
+00:03:38,288 --> 00:03:40,923
+H novos contedos regularmente adicionados a esta
+
+92
+00:03:40,923 --> 00:03:42,923
+seo com dezenas de palestras.
+
+93
+00:03:44,000 --> 00:03:46,308
+Voc tambm ter acesso a fruns
+
+94
+00:03:46,308 --> 00:03:50,160
+da comunidade e ajuda dedicada de mim, seu instrutor.
+
+95
+00:03:50,160 --> 00:03:53,357
+Ento, essa  a viso geral completa do currculo do
+
+96
+00:03:53,357 --> 00:03:56,152
+curso, ento vamos continuar e comear o curso.
+
+97
+00:03:56,152 --> 00:04:00,235
+Obrigado, e eu vou te ver na prxima palestra.
+
